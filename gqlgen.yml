@@ -86,10 +86,10 @@ autobind:
 models:
   Category:
     model:
-      - github.com/devfullcycle/GraphQL/graph/model.Category
+      - github.com/brennomarques/graphql/graph/model.Category
   Course:
     model:
-      - github.com/devfullcycle/GraphQL/graph/model.Course
+      - github.com/brennomarques/graphql/graph/model.Course
 
   ID:
     model:
